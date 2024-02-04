@@ -34,7 +34,7 @@ export default function HomeScreen() {
                         style={{ fontSize: wp(7) }}
                         className="font-bold text-neutral-700"
                     >
-                        Let's Discover
+                        Your Influence
                     </Text>
                     <TouchableOpacity>
                         <Image

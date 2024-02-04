@@ -31,14 +31,13 @@ export default function HomeScreen() {
                         className="text-white font-bold text-5xl"
                         style={{ fontSize: wp(10) }}
                     >
-                        Traveling made easy
+                        Influence Your Representation
                     </Text>
                     <Text
                         style={{ fontSize: wp(4) }}
                         className="text-neutral-200 font-medium"
                     >
-                        Experience the world's best adventure around the world
-                        with us
+                        Sharing YOUR voting preferences with YOUR elected officials. Politics Simplified.
                     </Text>
                 </View>
 
